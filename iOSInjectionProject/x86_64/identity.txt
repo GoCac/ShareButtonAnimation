@@ -1,0 +1,2 @@
+/Users/gongtorikou/Library/Developer/Xcode/DerivedData/ShareButtonAnimation-fiqqdnsjalvwnhfjtdnsvegdcteo/Build/Products/Debug-iphonesimulator/ShareButtonAnimation.app
+
